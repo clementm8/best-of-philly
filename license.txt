@@ -8,3 +8,6 @@ licenses and Permissions
 Pizza-500x500 | https://www.flickr.com/photos/roboppy/2243590808/sizes/m/,  All rights reserved by roboppy, Robyn Lee
 
 Pizza-oven-500x500 | https://unsplash.com/photos/an-oven-with-a-fire-inside-of-it-souvaTHUJkY, Free to use under the Unsplash License,  Rick Barrett
+
+cheese-500x500 | https://pixabay.com/illustrations/ai-generated-cheese-snack-delicious-8770655/, Free for use under the Pixabay Content License, Ivana Tomášková
+
