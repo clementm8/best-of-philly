@@ -206,6 +206,10 @@ main {
 	background-color: #218838; /* Darker green on hover */
 }
 
+.aside{
+	margin: auto;
+}
+
 article img {
 	border: none;
 	-webkit-box-shadow: 3px 3px 7px #777;
