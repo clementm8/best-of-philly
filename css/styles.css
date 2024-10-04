@@ -258,8 +258,7 @@ footer a:hover, a:active {
 	text-decoration: underline;
 }
 
-/* -- Code for the Cookie Compliance popover window -- */
-/*
+-- Code for the Cookie Compliance popover window --
 #cookiePopup {
   background-color: #ffffff;
   position: absolute;
@@ -304,8 +303,8 @@ footer a:hover, a:active {
   visibility: visible;
  
 }
-*/
-/* -- End of Code for the Cookie Compliance popover window -- */
+/* 
+-- End of Code for the Cookie Compliance popover window -- */
 
 @media only screen and  (min-width:900px) {
  
