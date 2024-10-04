@@ -190,6 +190,22 @@ main {
   	width: 80%;
 }
 
+.call-to-action {
+	display: inline-block;
+	padding: 15px 25px;
+	background-color: #28a745; /* Green background */
+	color: white; /* White text */
+	text-align: center;
+	text-decoration: none; /* No underline */
+	border-radius: 5px; /* Rounded corners */
+	font-size: 18px; /* Font size */
+	transition: background-color 0.3s; /* Smooth transition */
+}
+
+.call-to-action:hover {
+	background-color: #218838; /* Darker green on hover */
+}
+
 article img {
 	border: none;
 	-webkit-box-shadow: 3px 3px 7px #777;
@@ -318,3 +334,4 @@ h3 {
 		margin-left: 10%;
 	}
 }
+
