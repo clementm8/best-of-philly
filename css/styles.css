@@ -145,9 +145,6 @@ nav {
 	text-decoration: underline;
 }
 
-header {
-	margin-top: 80px;  /* Space for the nav on page load */
-	}
 
 /*  Places the content image in the bg with the headings on top  */
 .header-bg-wrap {
@@ -308,6 +305,27 @@ footer a:hover, a:active {
 	margin-top: 0.3rem;
 	margin-bottom: 0.3rem;
 }
+
+.banner-parent{
+	margin: auto;
+	position: initial;
+  	top: 0; /* Adjust as needed */
+}
+
+.top-banner, .small-banner{
+	margin: auto;
+	z-index: 10;
+	position: relative;
+	width: fit-content;
+}
+
+.row{
+	display: flex;
+	gap: 3rem;
+	flex: auto;
+	flex-direction: row;
+}
+
 /* 
 -- End of Code for the Cookie Compliance popover window -- */
 
